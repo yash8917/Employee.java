@@ -15,7 +15,6 @@ public class Ractangle {
     void Area(){
         System.out.println(length*breadth);
     }
-
     public static void main(String[] args) {
         Ractangle r1=new Ractangle();
         Ractangle r2=new Ractangle();
