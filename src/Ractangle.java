@@ -7,6 +7,7 @@ public class Ractangle {
     //instance Variable
     int length;
     int breadth;
+    
 //    Method
     void insert(int l,int b){
         length=l;breadth=b;
@@ -15,6 +16,7 @@ public class Ractangle {
     void Area(){
         System.out.println(length*breadth);
     }
+    
     public static void main(String[] args) {
         Ractangle r1=new Ractangle();
         Ractangle r2=new Ractangle();
