@@ -7,6 +7,7 @@ public class Employee {
         year=y;
         add=a;
     }
+    
     void display(){
         System.out.println(name+"\t"+year+"\t"+add);
     }
