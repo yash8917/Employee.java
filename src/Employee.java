@@ -11,7 +11,6 @@ public class Employee {
     void display(){
         System.out.println(name+"\t"+year+"\t"+add);
     }
-
     public static void main(String[] args) {
         Employee s1=new Employee();
         Employee s2=new Employee();
