@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a99f33f-232b-4c92-aec4-e9106e998cfe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DSA Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adj_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Default.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Default1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Default/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Default/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Default/Ractangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Default/TestArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Default/default1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Default1/default1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Default.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ractangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/default1.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2Fwvs5vaTMz2SSgkegsKq1yVG9W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Adj_Matrix">
+    <configuration name="Adj_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adj_Matrix" />
+      <module name="DSA Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Codechef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codechef" />
+      <module name="DSA Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph" />
+      <module name="DSA Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList" />
+      <module name="DSA Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_con" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_con" />
+      <module name="DSA Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Adj_Matrix" />
+        <item itemvalue="Application.Graph" />
+        <item itemvalue="Application.String_con" />
+        <item itemvalue="Application.Codechef" />
+        <item itemvalue="Application.LinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a99f33f-232b-4c92-aec4-e9106e998cfe" name="Changes" comment="" />
+      <created>1665416165717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665416165717</updated>
+      <workItem from="1665416168536" duration="4116000" />
+      <workItem from="1667587579496" duration="62000" />
+      <workItem from="1667719286199" duration="14836000" />
+      <workItem from="1667884506871" duration="1600000" />
+      <workItem from="1668005155819" duration="1443000" />
+      <workItem from="1668264046134" duration="2883000" />
+      <workItem from="1668417904627" duration="359000" />
+      <workItem from="1668507155506" duration="1026000" />
+      <workItem from="1668679662669" duration="933000" />
+      <workItem from="1668765872879" duration="961000" />
+      <workItem from="1670258480129" duration="9000" />
+      <workItem from="1671086463698" duration="596000" />
+      <workItem from="1671988177169" duration="533000" />
+      <workItem from="1674222569621" duration="2067000" />
+      <workItem from="1674309422928" duration="720000" />
+      <workItem from="1674491050703" duration="1631000" />
+      <workItem from="1674553465553" duration="362000" />
+      <workItem from="1679217767635" duration="3873000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
