@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a99f33f-232b-4c92-aec4-e9106e998cfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DSA Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adj_Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Default.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Default1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Default/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Default/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Default/Ractangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Default/TestArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Default/default1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Default1/default1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Default.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ractangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/default1.java" beforeDir="false" />
+    <list default="true" id="2a99f33f-232b-4c92-aec4-e9106e998cfe" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/src/Adj_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/Bubble_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Practice/Adj_Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA Practice/Adj_Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Practice/Graph$Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Practice/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Practice/LinkedList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA Practice/LinkedList$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Practice/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA Practice/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +47,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="527" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Adj_Matrix">
+  <component name="RunManager" selected="Application.Bubble_Sort">
+    <configuration name="Adj_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adj_List" />
+      <module name="DSA Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Adj_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Adj_Matrix" />
       <module name="DSA Practice" />
@@ -69,41 +68,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Codechef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codechef" />
+    <configuration name="Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.Bubble_Sort" />
+      <module name="DSA Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern" />
       <module name="DSA Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph" />
+    <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.hello" />
       <module name="DSA Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList" />
-      <module name="DSA Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String_con" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_con" />
-      <module name="DSA Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bubble_Sort" />
+        <item itemvalue="Application.Pattern" />
+        <item itemvalue="Application.hello" />
+        <item itemvalue="Application.Adj_List" />
         <item itemvalue="Application.Adj_Matrix" />
-        <item itemvalue="Application.Graph" />
-        <item itemvalue="Application.String_con" />
-        <item itemvalue="Application.Codechef" />
-        <item itemvalue="Application.LinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +137,21 @@
       <workItem from="1674491050703" duration="1631000" />
       <workItem from="1674553465553" duration="362000" />
       <workItem from="1679217767635" duration="3873000" />
+      <workItem from="1679300996343" duration="8976000" />
+      <workItem from="1679381851901" duration="649000" />
+      <workItem from="1680179429241" duration="2818000" />
+      <workItem from="1686895289525" duration="1646000" />
+      <workItem from="1686934389105" duration="47000" />
+      <workItem from="1686934488655" duration="3089000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1679301192562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679301192562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,5 +168,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>

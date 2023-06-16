@@ -1,7 +1,9 @@
-import java.util.List;
-
-class LinkedList{
+class LinkedList<I extends Number> {
     private ListNode head;
+
+    public void add(I v) {
+    }
+
     private static class ListNode{
         private int data;
         private ListNode next;
@@ -184,7 +186,7 @@ class LinkedList{
 
 
     public static void main(String[] args) {
-        LinkedList sll = new LinkedList();
+        LinkedList<Number> sll = new LinkedList<Number>();
         sll.head = new ListNode(10);
         ListNode second = new ListNode(20);
         ListNode third = new ListNode(30);
